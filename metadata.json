@@ -1,0 +1,6 @@
+{
+  "name": "Simple Factory Management System",
+  "description": "Production-ready, accurate factory management system for small manufacturing plants covering inventory, production, sales, billing, purchases, expenses, and cash flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
